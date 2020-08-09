@@ -1,6 +1,6 @@
 # Hoja de Vida - Ionic 4
  
- #### Trabajo correspondiente al Segundo Bimestre de la materia de Tópicos Especiales
+ #### Trabajo correspondiente al Segundo Bimestre de la materia de Tópicos Especiales, el cual fue desarrollado utilizando Angular y Ionic 4
  
  ## Descripción :pencil2:
  
