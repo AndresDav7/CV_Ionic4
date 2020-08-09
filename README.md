@@ -25,8 +25,12 @@
  
  ![myimage-alt-tag](https://github.com/AndresDav7/CV_Ionic4/blob/master/images/Datos.PNG)
   
+  
  Tab de Cursos
+ 
  ![myimage-alt-tag](https://github.com/AndresDav7/CV_Ionic4/blob/master/images/Estudios.PNG)
   
+  
  Tab de Contacto y Referencia
+ 
  ![myimage-alt-tag](https://github.com/AndresDav7/CV_Ionic4/blob/master/images/Contacto%20y%20Ref.PNG)
