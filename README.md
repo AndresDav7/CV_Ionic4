@@ -1,4 +1,5 @@
-
+# Hoja de Vida - Ionic 4
+ 
  #### Trabajo correspondiente al Segundo Bimestre de la materia de Tópicos Especiales
  
  ## Descripción :pencil2:
@@ -15,4 +16,4 @@
  
  ## Capturas de Pantalla
  
- [myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/class.user.jpeg)
+ [myimage-alt-tag](https://github.com/AndresDav7/CV_Ionic4/blob/master/images/Presentacion.PNG)
